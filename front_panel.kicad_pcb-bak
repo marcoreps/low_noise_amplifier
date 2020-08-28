@@ -102,7 +102,7 @@
     (uvia_drill 0.1)
   )
 
-  (gr_text "CUTOUT\n" (at 137.5 110.5) (layer F.SilkS)
+  (gr_text "CUTOUT\n" (at 137.5 110.5) (layer F.Mask)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_circle (center 137.5 110.35) (end 144 110.35) (layer Edge.Cuts) (width 0.05))
